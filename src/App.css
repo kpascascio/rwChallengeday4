@@ -1,0 +1,18 @@
+button {
+    border-radius: 5px;
+    box-shadow: none;
+    padding: 0.5em;
+    text-transform: uppercase;
+    background-color: rgb(183, 235, 235);
+    border-color: #a6dada;
+    color: #434343;
+}
+
+input[type="button"] {
+    border-radius: 5px;
+    padding: 0.5em;
+    text-transform: uppercase;
+    background-color: #669999;
+    border-color: #407F7F;
+    color: #434343;
+}
